@@ -127,3 +127,13 @@ Fri 24 Mar 2023 12:22:05 PM UTC:
  tests:  9|3
 total_score: 35/70
 82723fb
+Fri 24 Mar 2023 12:22:25 PM UTC: 
+ list.c | 1 +
+ 1 file changed, 1 insertion(+)
+In file included from test.c:5:
+list.c: In function ‘pushFront’:
+list.c:75:3: error: expected ‘;’ before ‘list’
+   75 |   list->tail=nuevo;
+      |   ^~~~
+Compilation failed
+c9697d6

@@ -137,3 +137,9 @@ list.c:75:3: error: expected ‘;’ before ‘list’
       |   ^~~~
 Compilation failed
 c9697d6
+Fri 24 Mar 2023 12:22:32 PM UTC: 
+ list.c | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+ tests:  9|3
+total_score: 35/70
+ef74f63

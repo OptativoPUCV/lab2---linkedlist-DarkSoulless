@@ -121,3 +121,9 @@ list.c:74:7: error: ‘List’ {aka ‘struct List’} has no member named ‘pr
       |       ^~
 Compilation failed
 c2959db
+Fri 24 Mar 2023 12:22:05 PM UTC: 
+ list.c | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+ tests:  9|3
+total_score: 35/70
+82723fb
